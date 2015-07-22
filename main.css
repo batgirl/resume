@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;;
+    src: url(http://www.cssfontstack.com/Optima) format("truetype");
+}
+body {
+	background-image: url("light_grey.jpg");
+	background-color: white;
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+}
+h1, h2 {
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+}
+.lead {
+	padding-right: 50px;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+h1 {
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 48px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.3999996185303px;
+	padding-right: 145px;
+	padding-top: 20px;
+}
+h2 {
+	font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+
+}
+h1, .lead {
+	float: right;
+}
+img {
+	padding-top: 15px;
+}
+header {
+	background-color: black;
+	font-color: white;
+}
+.container {
+  padding: 50px;
+  max-width: 800px;
+  background-color: black;
+}
